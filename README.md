@@ -30,5 +30,5 @@ print(rank)
 ![Screenshot (159)](https://user-images.githubusercontent.com/121490826/214577976-500b42b9-7176-4eaa-b24b-c45197a93790.png)
 
 ## Result:
-Thus the rank for the given matrix is successfully solved by  using a python program.
+Thus the rank for the given matrix is successfully solved by  using a python program
 
